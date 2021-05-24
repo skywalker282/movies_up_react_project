@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8a60dd1.chunk.css",
+    "main.js": "/static/js/main.f75647e9.chunk.js",
+    "main.js.map": "/static/js/main.f75647e9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.523c9785.js",
+    "runtime-main.js.map": "/static/js/runtime-main.523c9785.js.map",
+    "static/js/2.4e1ace28.chunk.js": "/static/js/2.4e1ace28.chunk.js",
+    "static/js/2.4e1ace28.chunk.js.map": "/static/js/2.4e1ace28.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c8a60dd1.chunk.css.map": "/static/css/main.c8a60dd1.chunk.css.map",
+    "static/js/2.4e1ace28.chunk.js.LICENSE.txt": "/static/js/2.4e1ace28.chunk.js.LICENSE.txt",
+    "static/media/Hero.module.scss": "/static/media/harry.6ba57463.jpg",
+    "static/media/SplashScreen.module.scss": "/static/media/Aileron-Thin.37c7d157.otf",
+    "static/media/App.scss": "/static/media/background.46bc5ed8.jpg",
+    "static/media/profile.20a21d3c.gif": "/static/media/profile.20a21d3c.gif",
+    "static/media/spin.0c299348.gif": "/static/media/spin.0c299348.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.523c9785.js",
+    "static/js/2.4e1ace28.chunk.js",
+    "static/css/main.c8a60dd1.chunk.css",
+    "static/js/main.f75647e9.chunk.js"
+  ]
+}
